@@ -1,5 +1,5 @@
 # Submission_Belajar_Dasar_Pemrograman_Web
-Submission Belajar Dasar Pemrograman Web &copy Helmi Salsabila
+Submission Belajar Dasar Pemrograman Web &copy; Helmi Salsabila
 
 # Hasil akhir 
 
